@@ -11,6 +11,7 @@ Pasos para hacer un proyecto con mockapi.io
 - id
 - name
 - password
+<br></br>
 4 - vislisas la api generada de mockiapi.io y agregas el nombre del proyecto
 </br></br>
 ## Video esplicativo :
