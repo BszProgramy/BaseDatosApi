@@ -8,11 +8,9 @@ Pasos para hacer un proyecto con mockapi.io
 2- agregas un nombre y un direcional con barras ejemplo : /api/v1/
 <br></br>
 3- agregas los valores de json que se enviaran ejemplo :
-<br></br>
 - id
 - name
 - password
-<br></br>
 4 - vislisas la api generada de mockiapi.io y agregas el nombre del proyecto
 </br></br>
 ## Video esplicativo :
